@@ -1,5 +1,10 @@
 ![LJ Inventory](https://user-images.githubusercontent.com/91661118/146313051-665337bf-ed92-4ed0-bbb9-6ee9613f670d.png)
 
+
+## Added items on ground by Ethereal RP / root_ & Teb from RCORE
+
+
+
 ## Color Picking Added!
 
 Join my Discord for updates, support, and special early testing!
